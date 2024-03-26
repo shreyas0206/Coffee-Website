@@ -1,0 +1,103 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "filter coffee",
+            "price": 59,
+            "image": "./images/menu-15.png"
+        },
+        {
+            "id": 2,
+            "title": "Blends Origin Coffee",
+            "price": 99,
+            "image": "./images/bsoc.png"
+        },
+        {
+            "id": 3,
+            "title": "lemon Iced Tea",
+            "price": 99,
+            "image": "./images/menu-16.png"
+        },
+        {
+            "id": 4,
+            "title": "Espresso Coffee",
+            "price": 159,
+            "image": "./images/menu-2.png"
+        },
+        {
+            "id": 5,
+            "title": "Americano Coffee",
+            "price": 169,
+            "image": "./images/menu-33.png"
+
+        },
+        {
+            "id": 6,
+            "title": "Macchiato Coffee",
+            "price": 149,
+            "image": "./images/menu-4.png"
+
+        },
+        {
+            "id": 7,
+            "title": "Lattee Coffee",
+            "price": 199,
+            "image": "./images/menu-55.png"
+        },
+        {
+            "id": 8,
+            "title": "Glace Coffee",
+            "price": 129,
+            "image": "./images/menu-66.png"
+        },
+        {
+            "id": 9,
+            "title": "Mocha Coffee",
+            "price": 199,
+            "image": "./images/menu-7.png"
+        },
+        {
+            "id": 10,
+            "title": "White Chocolate Mocha",
+            "price": 259,
+            "image": "./images/menu-8.png"
+        },
+        {
+            "id": 11,
+            "title": "Freshly Brewed Coffee",
+            "price": 229,
+            "image": "./images/menu-9.png"
+        },
+        {
+            "id": 12,
+            "title": "Cinnamon Dolce Latte",
+            "price": 199,
+            "image": "./images/menu-10.png"
+        },
+        {
+            "id": 13,
+            "title": "Caramel Flan Latte",
+            "price": 99,
+            "image": "./images/menu-11.png"
+        },
+        {
+            "id": 14,
+            "title": "Caramel Frappuccino",
+            "price": 299,
+            "image": "./images/menu-12.png"
+        },
+        {
+            "id": 15,
+            "title": "Iced Caramel Macchiato",
+            "price": 250,
+            "image": "./images/menu-13.png"
+        },
+        {
+            "id": 16,
+            "title": "ced Caramel Macchiato",
+            "price": 219,
+            "image": "./images/menu-14.png"
+        }
+
+    ]
+}
